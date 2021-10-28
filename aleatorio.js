@@ -1,0 +1,4 @@
+if (love = true); {
+  happiness();
+}
+
